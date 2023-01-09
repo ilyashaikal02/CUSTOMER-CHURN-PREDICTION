@@ -1,13 +1,6 @@
-# CUSTOMER-CHURN-PREDICTION
-Churn Prediction on Telecommunication Company. This is a Classification Machine Learning project using Logistic Regression, Random Forest Classifier, and K-Nearest Neighbors Models. Created as a Final Project at MyEduSolve by Kampus Merdeka Data Science Class.
-
-
 # TELCO-CUSTOMER-CHURN-PREDICTION
 ## Context
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
-
-## Content
-Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 The data set includes information about:
 
